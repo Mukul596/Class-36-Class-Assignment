@@ -289,6 +289,9 @@ img {
   color: white;
   transition: all 0.4s;
 }
+.main-icon i {
+	transform: rotate(33deg) !important;
+}
 
 .services_section .bottom main .item_inner .hr {
   width: 50px;
